@@ -8,7 +8,7 @@ To run the project locally you will need to:
 1. Clone the repo to your local, e.g.,
 
 ```bash
-git clone git@github.com:EDGENortheastern/python-functions.git
+git clone git@github.com:EDGENortheastern/python-functions-start.git
 ```
 
 2. Create a virtual environment
